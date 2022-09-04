@@ -61,6 +61,12 @@ th {
     padding-bottom: 5px;
 }
 
+td {
+    padding-bottom: 7px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
 tbody {
     display: table-row-group;
     vertical-align: middle;
@@ -176,4 +182,8 @@ input[type="submit" i] {
     border-style: outset;
     border-color: buttonborder;
     border-image: initial;
+}
+
+.notice {
+    color: green;
 }
